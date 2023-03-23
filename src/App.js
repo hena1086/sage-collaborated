@@ -11,9 +11,11 @@ import Footer from "./components/common/footer/Footer"
 import Home from "./components/home/Home"
 function App() {
   return (
+   
     <>
       <Router>
         <Header />
+        <h2>hello</h2>
         <Switch>
           <Route exact path='/' component={Home} />
           <Route exact path='/about' component={About} />
