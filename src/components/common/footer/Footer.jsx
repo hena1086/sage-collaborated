@@ -48,6 +48,7 @@ const Footer = () => {
               <li>Feedbacks</li>
             </ul>
           </div>
+
           <div className='box'>
             <h3>Recent Post</h3>
             {blog.slice(0, 3).map((val) => (
@@ -90,7 +91,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2023 All rights reserved | This web app is made with <i className='fa fa-heart'></i> by H2Y team
+          Copyright ©2023 All rights reserved | This web app is made with <i className='fa fa-heart heart'></i>&nbsp;by &nbsp;&nbsp;HY<sup>2</sup>&nbsp;&nbsp;  team
         </p>
       </div>
     </>
