@@ -16,7 +16,16 @@ const Header = () => {
               <Link to='/'>Home</Link>
             </li>
             <li>
-              <Link to='/courses'>All Courses</Link>
+              <Link to='/courses'>Acadamics</Link>
+            </li>
+            {/* <li>
+              <Link to='/'>E-Library</Link>
+            </li> */}
+            <li>
+              <Link to='/'>Research</Link>
+            </li>
+            <li>
+              <Link to='/'>Services</Link>
             </li>
             <li>
               <Link to='/about'>About</Link>
@@ -28,10 +37,13 @@ const Header = () => {
               <Link to='/pricing'>Pricing</Link>
             </li>
             <li>
-              <Link to='/journal'>Journal</Link>
+              <Link to='/journal'>Blog</Link>
             </li>
             <li>
-              <Link to='/contact'>Contact</Link>
+              <Link to='/'>Trainee's</Link>
+            </li>
+            <li>
+              <Link to='/contact'>Contact Us</Link>
             </li>
           </ul>
           <div className='start'>
