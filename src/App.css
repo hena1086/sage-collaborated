@@ -83,6 +83,7 @@ button:hover {
   font-size: 45px;
   margin: 20px 0;
   text-transform: capitalize;
+  color: #90490b;
 }
 p {
   line-height: 30px;
