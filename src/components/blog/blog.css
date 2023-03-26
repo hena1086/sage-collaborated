@@ -13,7 +13,7 @@
   transition: 0.5s;
 }
 .blog h1:hover {
-  color: #00edd9;
+  color: #988c82;
   cursor: pointer;
 }
 .blog span {
@@ -23,12 +23,12 @@
 }
 .blog span label {
   margin-left: 10px;
-  color: grey;
+  color: rgb(147, 83, 18);
   font-size: 14px;
 }
 .blog span:nth-last-child(1) label {
   color: ##90490b;
 }
 .blog p {
-  color: grey;
+  color: rgb(192, 89, 15);
 }
