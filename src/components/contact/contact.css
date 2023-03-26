@@ -9,9 +9,10 @@
 .contacts h1 {
   font-size: 30px;
   font-weight: 400;
+  color: #814714;
 }
 .contacts p {
-  color: grey;
+  color: rgb(171, 87, 13);
 }
 .contacts .items {
   margin: 30px 0;

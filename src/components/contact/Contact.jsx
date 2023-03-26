@@ -21,7 +21,7 @@ const Contact = () => {
             <div className='items grid2'>
               <div className='box'>
                 <h4>ADDRESS:</h4>
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                <p>Churchil Avenue. Piazza, Eliana Hotel, Addis Ababa, Ethiopia</p>
               </div>
               <div className='box'>
                 <h4>EMAIL:</h4>
@@ -29,7 +29,7 @@ const Contact = () => {
               </div>
               <div className='box'>
                 <h4>PHONE:</h4>
-                <p> + 1235 2355 98</p>
+                <p>+251-090-677-7799</p>
               </div>
             </div>
 

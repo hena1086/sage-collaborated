@@ -18,6 +18,9 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.flexSB ::placeholder{
+  color: #90490b;
+}
 .icon {
   width: 40px;
   height: 40px;
@@ -105,12 +108,14 @@ p {
 .back h1 {
   font-size: 100px;
   font-weight: 400;
+  color: #90490b;
   
 }
 .back h2 {
   font-weight: 500;
   font-size: 17px;
   text-transform: uppercase;
+  color: rgb(191, 103, 4);
 }
 .margin {
   margin-top: 40.3%;
