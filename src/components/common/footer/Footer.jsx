@@ -20,9 +20,9 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
-            <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <h1>SAGE TRAINING INSTITUTE</h1>
+            <span>EDUCATION & LEARNING</span>
+            <p>Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.</p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+          Copyright ©2023 All rights reserved | This web app is made with <i className='fa fa-heart'></i> by H2Y team
         </p>
       </div>
     </>
