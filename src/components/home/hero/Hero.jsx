@@ -8,7 +8,7 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row'>
-            <Heading subtitle='WELCOME TO Sage' title='Best Online Education Expertise' />
+            <Heading subtitle='WELCOME TO Sage' title='Best Education Expertise' />
             <p>Addis Ababa, also spelled Addis Abeba, capital and largest city of Ethiopia. It is located on a well-watered plateau surrounded by hills and mountains in the geographic centre of the country.</p>
             <div className='button'>
               <button className='primary-btn'>

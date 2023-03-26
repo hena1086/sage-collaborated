@@ -13,7 +13,7 @@ const AboutCard = () => {
             <img src='./images/about.webp' alt='' />
           </div>
           <div className='right row'>
-            <Heading subtitle='About Us' title='Here is' />
+            <Heading subtitle='About Us' title='Here Are Our...' />
             <div className='items'>
               {homeAbout.map((val) => {
                 return (

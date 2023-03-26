@@ -2,20 +2,20 @@ export const homeAbout = [
     {
       id: 1,
       cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-      title: "Online Courses",
-      desc: "",
+      title: "Our Mission",
+      desc: "The beautiful thing about learning is that nobody can take it away from you.",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-      title: "Earn A Certificates",
-      desc: "",
+      title: "Our Vission",
+      desc: "The beautiful thing about learning is that nobody can take it away from you.",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-      title: "Learn with Expert",
-      desc: "",
+      title: "Our Goal",
+      desc: "The beautiful thing about learning is that nobody can take it away from you.",
     },
   ]
   export const awrapper = [
@@ -59,7 +59,7 @@ export const homeAbout = [
     {
       id: 2,
       cover: "../images/courses/c2.png",
-      coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+      coursesName: "Enhancing Adobe Photoshop CC 2022 Skills",
       courTeacher: [
         {
           dcover: "./images/back.webp",

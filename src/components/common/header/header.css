@@ -1,7 +1,7 @@
 /*--------head------------*/
 .head {
   padding: 20px 0;
-  color: #fff;
+  color: #90490b;
 }
 .logo h1 {
   font-size: 35px;
@@ -10,6 +10,7 @@
 .head .icon {
   margin-left: 10px;
 }
+
 /*--------head------------*/
 /*--------header------------*/
 header {
@@ -27,14 +28,15 @@ header ul {
 }
 header ul li a {
   color: #fff;
-  font-weight: 500;
+  font-weight: 700;
+  font-size: large;
   transition: 0.5s;
 }
 header ul li a:hover {
-  color: #1eb2a6;
+  color: #90490b;
 }
 .start {
-  background-color: #1eb2a6;
+  background-color: #90490b;
   padding: 30px 70px;
   color: #fff;
   clip-path: polygon(20% 0%, 100% 0, 100% 100%, 0% 100%);
@@ -49,7 +51,7 @@ header ul li a:hover {
   }
   header {
     margin: 0;
-    background-color: #1eb2a6;
+    background-color: #90490b;
     position: relative;
   }
   header ul.flexSB {
@@ -72,6 +74,6 @@ header ul li a:hover {
     top: 7vh;
     left: 0;
     width: 100%;
-    background-color: #1eb2a6;
+    background-color: #90490b;
   }
 }

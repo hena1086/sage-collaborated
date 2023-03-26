@@ -8,7 +8,7 @@ const Head = () => {
           <div className='logo'>
           
             <h1><img src="" alt="" />Sage Training Institute</h1>
-            {/* <span>ONLINE EDUCATION & LEARNING</span> */}
+            <span> EDUCATION & LEARNING</span>
             
           </div>
 
