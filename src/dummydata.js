@@ -3,41 +3,41 @@ export const homeAbout = [
       id: 1,
       cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
       title: "Online Courses",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
       title: "Earn A Certificates",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/athlete.png",
       title: "Learn with Expert",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "",
     },
   ]
   export const awrapper = [
     {
       cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
-      data: "3,000",
+      data: "30",
       title: "SUCCESS STORIES",
     },
   
     {
       cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-      data: "320",
+      data: "32",
       title: "TRUSTED TUTORS",
     },
     {
       cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-      data: "1,000",
+      data: "6",
       title: "SCHEDULES",
     },
     {
       cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-      data: "587",
+      data: "87",
       title: "COURSES",
     },
   ]
@@ -49,12 +49,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by John Smith",
+          name: "By Henok",
           totalTime: "50 lectures (190 hrs)",
         },
       ],
-      priceAll: "$100 All Course",
-      pricePer: "$15 per month",
+      priceAll: "1000 Birr All Course",
+      pricePer: "150 Birr per month",
     },
     {
       id: 2,
@@ -63,12 +63,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Ram Gurung",
+          name: "By Henok",
           totalTime: "30 lectures (125 hrs)",
         },
       ],
-      priceAll: "$200 All Course",
-      pricePer: "$25 per month",
+      priceAll: "2000 Birr  All Course",
+      pricePer: "250 Birr per month",
     },
     {
       id: 3,
@@ -77,12 +77,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Saroj Nepal",
+          name: "By Henok",
           totalTime: "50 lectures (50 hrs)",
         },
       ],
-      priceAll: "$50 All Course",
-      pricePer: "$5 per month",
+      priceAll: "500 Birr All Course",
+      pricePer: "50 Birr per month",
     },
     {
       id: 4,
@@ -91,12 +91,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Prabin Thapa Mager",
+          name: "By Henok",
           totalTime: "20 lectures (20 hrs)",
         },
       ],
-      priceAll: "$30 All Course",
-      pricePer: "$3 per month",
+      priceAll: "3000 Birr All Course",
+      pricePer: "300 Birr per month",
     },
     {
       id: 5,
@@ -105,12 +105,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
+          name: "By Henok",
           totalTime: "100 lectures (150 hrs)",
         },
       ],
-      priceAll: "$300 All Course",
-      pricePer: "$30 per month",
+      priceAll: "3000 Birr All Course",
+      pricePer: "300 Birr per month",
     },
     {
       id: 6,
@@ -119,12 +119,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
+          name: "By Henok",
           totalTime: "200 lectures (300 hrs)",
         },
       ],
-      priceAll: "$500 All Course",
-      pricePer: "$80 per month",
+      priceAll: "5000 Birr All Course",
+      pricePer: "800 Birr per month",
     },
     {
       id: 7,
@@ -133,12 +133,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Price",
+          name: "By Henok",
           totalTime: "20 lectures (50 hrs)",
         },
       ],
-      priceAll: "$20 All Course",
-      pricePer: "$2 per month",
+      priceAll: "200 Birr All Course",
+      pricePer: "20 Birr per month",
     },
     {
       id: 8,
@@ -147,12 +147,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Petter",
+          name: "By Henok",
           totalTime: "80 lectures (200 hrs)",
         },
       ],
-      priceAll: "$200 All Course",
-      pricePer: "$40 per month",
+      priceAll: "2000 Birr All Course",
+      pricePer: "400 Birr per month",
     },
     {
       id: 9,
@@ -161,12 +161,12 @@ export const homeAbout = [
       courTeacher: [
         {
           dcover: "./images/back.webp",
-          name: "by Petter",
+          name: "By Henok",
           totalTime: "50 lectures (50 hrs)",
         },
       ],
-      priceAll: "$20 All Course",
-      pricePer: "$3 per month",
+      priceAll: "2000 Birr All Course",
+      pricePer: "300 Birr per month",
     },
   ]
   export const online = [
@@ -174,13 +174,13 @@ export const homeAbout = [
       cover: "./images/courses/online/o1.png",
       hoverCover: "./images/courses/online/o1.1.png",
       courseName: "UI/UX Design Courses",
-      course: "25 Courses",
+      course: "5 Courses",
     },
     {
       cover: "./images/courses/online/o2.png",
       hoverCover: "./images/courses/online/o2.1.png",
       courseName: "Art & Design",
-      course: "25 Courses",
+      course: "5 Courses",
     },
     {
       cover: "./images/courses/online/o3.png",
@@ -192,7 +192,7 @@ export const homeAbout = [
       cover: "./images/courses/online/o4.png",
       hoverCover: "./images/courses/online/o4.1.png",
       courseName: "History & Archeologic",
-      course: "15 Courses",
+      course: "5 Courses",
     },
     {
       cover: "./images/courses/online/o5.png",
@@ -204,7 +204,7 @@ export const homeAbout = [
       cover: "./images/courses/online/o6.png",
       hoverCover: "./images/courses/online/o6.1.png",
       courseName: "Information Software",
-      course: "60 Courses",
+      course: "6 Courses",
     },
     {
       cover: "./images/courses/online/o7.png",
@@ -216,19 +216,19 @@ export const homeAbout = [
       cover: "./images/courses/online/o8.png",
       hoverCover: "./images/courses/online/o8.1.png",
       courseName: "Marketing",
-      course: "30 Courses",
+      course: "3 Courses",
     },
     {
       cover: "./images/courses/online/o9.png",
       hoverCover: "./images/courses/online/o9.1.png",
       courseName: "Graphic Design",
-      course: "80 Courses",
+      course: "8 Courses",
     },
     {
       cover: "./images/courses/online/o10.png",
       hoverCover: "./images/courses/online/o10.1.png",
       courseName: "Music",
-      course: "120 Courses",
+      course: "12 Courses",
     },
     {
       cover: "./images/courses/online/o11.png",
@@ -246,64 +246,64 @@ export const homeAbout = [
   export const team = [
     {
       cover: "./images/team/t1.webp",
-      name: "Ph.D Adrian Molises",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
       cover: "./images/team/t2.webp",
-      name: "Ph.D Arthur MaGregor",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
       cover: "./images/team/t3.webp",
-      name: "Ph.D Anna Hanzen",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
       cover: "./images/team/t4.webp",
-      name: "Ph.D Brian Wooden",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
       cover: "./images/team/t5.webp",
-      name: "Ph.D Adrian Molises",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
       cover: "./images/team/t6.webp",
-      name: "Ph.D Arthur MaGregor",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
       cover: "./images/team/t7.webp",
-      name: "Ph.D Anna Hanzen",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
       cover: "./images/team/t8.webp",
-      name: "Ph.D Brian Wooden",
+      name: "Henok",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
   ]
   export const price = [
     {
       name: "BASIC PLAN",
-      price: "49K",
+      price: "5K",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
     {
       name: "BEGINNER PLAN",
-      price: "79K",
+      price: "9K",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
     {
       name: "PREMIUM PLAN",
-      price: "109k",
+      price: "12k",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
     {
       name: "ULTIMATE PLAN",
-      price: "149K",
+      price: "19K",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
   ]
@@ -392,7 +392,7 @@ export const homeAbout = [
   export const testimonal = [
     {
       id: 1,
-      name: "ROGER SCOTT",
+      name: "Henok",
       post: "MARKETING MANAGER",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       cover: "./images/testo/t1.webp",
