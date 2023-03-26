@@ -19,7 +19,7 @@
 .blog span {
   text-transform: uppercase;
   font-weight: 500;
-  color: ##90490b;
+  color: #90490b;
 }
 .blog span label {
   margin-left: 10px;
@@ -27,7 +27,7 @@
   font-size: 14px;
 }
 .blog span:nth-last-child(1) label {
-  color: ##90490b;
+  color: #90490b;
 }
 .blog p {
   color: rgb(192, 89, 15);
