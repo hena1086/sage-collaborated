@@ -21,6 +21,12 @@ body {
 .flexSB ::placeholder{
   color: #90490b;
 }
+.box h2{
+  color: #90490b;
+}
+.items:hover h2 {
+  color: #fff;
+}
 .icon {
   width: 40px;
   height: 40px;
