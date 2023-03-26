@@ -22,10 +22,10 @@ body {
   color: #90490b;
 }
 .box h2{
-  color: #90490b;
+  color: #8b470b;
 }
 .items:hover h2 {
-  color: #fff;
+  color: #fffdfd;
 }
 .icon {
   width: 40px;
